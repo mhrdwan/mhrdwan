@@ -1,8 +1,12 @@
+
+![readmebox](https://github.com/mhrdwan/mhrdwan/assets/123049383/f22a8877-39bc-46e5-992e-4e556dc8c5e2)
+
 ### Hi there, I'm Mohamad Hasyim Ridwan 👋
 
 ### and here is my stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhrdwan&theme=monokai"/>
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhrdwan&layout=compact&theme=monokai&langs_count=12"/><br />
 </p>
 
