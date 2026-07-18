@@ -22,32 +22,17 @@
 
 ### 🧑‍💻 About Me
 
-```yaml
-name:     "Mohamad Hasyim Ridwan"
-role:     "Fullstack Developer — Mobile · Web · DevOps"
-current:  "SPV Mobile Developer @ Jakarta Experience Board (BUMD)"
-study:    "B.Sc. Computer Science @ BINUS — AI/ML, GPA 3.69"
-stack:    ["React Native", "Next.js", "NestJS", "Node.js", "Flutter"]
-interest: ["Payment Systems", "E-Wallets", "Web3", "Cybersecurity"]
-fun_fact: "Ngoding sambil ngopi ☕"
-```
+<table>
+  <tr><td>🧑‍💻 &nbsp;<b>Role</b></td><td>Fullstack Developer — Mobile · Web · DevOps</td></tr>
+  <tr><td>🏢 &nbsp;<b>Currently</b></td><td>SPV Mobile Developer @ Jakarta Experience Board (BUMD)</td></tr>
+  <tr><td>🎓 &nbsp;<b>Study</b></td><td>B.Sc. Computer Science @ BINUS — AI/ML · GPA 3.69</td></tr>
+  <tr><td>⚙️ &nbsp;<b>Core Stack</b></td><td>React Native · Next.js · NestJS · Node.js · Flutter</td></tr>
+  <tr><td>🔭 &nbsp;<b>Into</b></td><td>Payment Systems · E-Wallets · Web3 · Cybersecurity</td></tr>
+  <tr><td>☕ &nbsp;<b>Fun Fact</b></td><td>Ngoding sambil ngopi</td></tr>
+</table>
 
-- 🔭 Sekarang **SPV Mobile Developer** @ **Jakarta Experience Board (BUMD)** — bikin & maintain `jxbapp` & `jxbhris`
-- 💳 Pernah bangun **integrasi payment gateway 15+ bank Indonesia** (Mandiri, BCA, BRI, BPD…) + Virtual Account & QRIS
-- 📱 Ngirim banyak app mobile & web: **SIPLAH Eureka, RajaCepat, JajaPay, Eureka Desk**
-- ⛓️ Ngoprek **Web3** — smart contract & platform donasi crypto on-chain
-- 🎓 Lagi nyelesaiin **S1 Computer Science @ BINUS** (fokus AI/ML, GPA 3.69)
-- 🛡️ Bersertifikat **Penetration Testing & Red Teaming**
-
-<br/>
-
-### 💼 Experience
-
-| Periode | Role | Perusahaan |
-|---------|------|-----------|
-| **2026 – Now** | SPV Mobile Developer | Jakarta Experience Board (BUMD) |
-| **2023 – 2026** | Fullstack Developer | PT Penerbit Erlangga Group |
-| **2025** | Software Engineer · Remote | Shoppias — Brazil |
+> 💳 &nbsp;Bangun integrasi **payment gateway 15+ bank Indonesia** — QRIS · Virtual Account · e-wallet  
+> 🛡️ &nbsp;Bersertifikat **Penetration Testing & Red Teaming**
 
 <br/>
 
