@@ -1,0 +1,41 @@
+# ============================================================
+#  Snake animation generator
+#  Taruh file ini di repo mhrdwan/mhrdwan pada path:
+#     .github/workflows/snake.yml
+#  Action ini bikin SVG ular yang "makan" grid kontribusi kamu,
+#  di-push ke branch `output`, lalu ditampilkan di README.
+#  Jalan otomatis tiap 12 jam + bisa dijalankan manual.
+# ============================================================
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # tiap 12 jam
+  workflow_dispatch:          # tombol "Run workflow" manual
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Generate snake SVG (light + dark)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: mhrdwan
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
