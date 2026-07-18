@@ -1,17 +1,21 @@
 <!-- Profile README — github.com/mhrdwan -->
 
-<a href="https://github.com/mhrdwan">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&height=70&lines=Hi+%F0%9F%91%8B+I'm+Mohamad+Hasyim+Ridwan;Fullstack+Web+Developer;Always+building%2C+always+learning"
-    alt="typing header"
-  />
-</a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=200&section=header&text=Mohamad%20Hasyim%20Ridwan&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20%26%20Web3%20Developer&descAlignY=58&descSize=18&descColor=e0e0e0" alt="header banner" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/mhrdwan">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&height=45&lines=Building+web+apps+%26+on-chain+dApps;Smart+Contract+Developer+%7C+ETH+%26+Solana;Always+building%2C+always+learning" alt="typing" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mhrdwan&label=Profile%20views&color=7aa2f7&style=flat" alt="profile views" />
   <a href="https://github.com/mhrdwan?tab=followers">
     <img src="https://img.shields.io/github/followers/mhrdwan?label=Followers&style=flat&color=7aa2f7&labelColor=1a1b27" alt="followers" />
   </a>
+  <img src="https://img.shields.io/badge/Focus-Web%20%26%20Web3-bb9af7?style=flat&labelColor=1a1b27" alt="focus" />
 </p>
 
 ---
@@ -20,17 +24,19 @@
 
 ```yaml
 name:     "Mohamad Hasyim Ridwan"
-role:     "Fullstack Web Developer"
+role:     "Fullstack & Web3 Developer"
 location: "Indonesia (WIB, UTC+7)"
-focus:    ["Web Apps", "REST APIs", "UI/UX"]
-learning: "System Design & Cloud"
+focus:    ["Web Apps", "REST APIs", "Smart Contracts", "DApps"]
+chains:   ["Ethereum", "Solana"]
+learning: "System Design, Cloud & Web3"
 fun_fact: "Ngoding sambil ngopi ☕"
 ```
 
-- 🔭 Fokus bikin aplikasi web fullstack — frontend sampai backend
-- 🌱 Lagi ndalemin **System Design & Cloud**
+- 🔭 Bikin aplikasi web fullstack — frontend, backend, sampai on-chain
+- ⛓️ Nulis & deploy **smart contract** di **Ethereum** & **Solana**
+- 🌱 Lagi ndalemin **System Design, Cloud & Web3**
 - 👯 Terbuka buat kolaborasi project open-source
-- 💬 Tanya aku soal **JavaScript, TypeScript, React & Node.js**
+- 💬 Tanya aku soal **JavaScript, TypeScript, Go, Solidity**
 
 <br/>
 
@@ -50,8 +56,11 @@ fun_fact: "Ngoding sambil ngopi ☕"
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 **Frontend**
 
@@ -60,11 +69,22 @@ fun_fact: "Ngoding sambil ngopi ☕"
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-**Backend**
+**Backend & Mobile**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+**⛓️ Blockchain / Web3**
+
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logoColor=black)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square)
+![Anchor](https://img.shields.io/badge/Anchor-663399?style=flat-square)
 
 **Database & Tools**
 
@@ -112,6 +132,10 @@ fun_fact: "Ngoding sambil ngopi ☕"
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7aa2f7,100:1a1b27&height=120&section=footer" alt="footer" />
+</p>
 
 <p align="center">
   <i>⭐️ From <a href="https://github.com/mhrdwan">mhrdwan</a> — thanks for visiting!</i>
